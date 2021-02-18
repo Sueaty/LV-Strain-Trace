@@ -1,7 +1,7 @@
 # LV-Strain-Trace
 
 ## Tracing LV-strain segments using Plotly.python
-<img src = "https://user-images.githubusercontent.com/34840140/108338039-2bd41400-7219-11eb-98c6-7434fcf7f9a2.gif">
+<img width = 600 src = "https://user-images.githubusercontent.com/34840140/108338039-2bd41400-7219-11eb-98c6-7434fcf7f9a2.gif">
 
 * Segments are represented by a single dot which are scattered across the given 3d plane.
 
